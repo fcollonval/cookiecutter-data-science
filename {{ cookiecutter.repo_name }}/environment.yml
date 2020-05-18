@@ -2,10 +2,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - click
-  - sphinx
-  - coverage
   - awscli
+  - click
+  - coverage
   - flake8
+  - ipykernel
   - python-dotenv>=0.5.1
-  
+  - sphinx  
